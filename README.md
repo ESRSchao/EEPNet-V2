@@ -50,4 +50,3 @@ Feel free to explore the code and contribute to the project. If you have any que
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 ```
 
-这个警告将清楚地传达出关于论文和代码的现状，确保用户了解使用限制。希望这个修改符合您的期望！如果您需要进一步的调整，请告诉我。
