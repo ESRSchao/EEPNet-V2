@@ -20,6 +20,10 @@ To run the code, you need to have the following packages installed. You can crea
 ```bash
 pip install pandas tqdm tensorboardX numpy torch pytorch_lightning scikit-learn joblib
 ```
+If need GPU for training and testing, install the appropriate PyTorch version for your GPU drivers:
+```bash
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+```
 
 ## Usage
 
