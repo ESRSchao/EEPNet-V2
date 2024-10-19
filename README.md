@@ -1,6 +1,7 @@
 # EEPNet++
 EEPNet++ is an enhanced version of the EEPNet architecture, built with PyTorch Lightning for improved modularity, scalability, and performance. This project focuses on cross-modal data registration, leveraging state-of-the-art neural networks to align multi-modal data, such as images and LiDAR point clouds.
 
+![Video Demo](./videos/output_video.gif)
 
 **⚠️ Important Notice:**
 Due to the fact that the related paper for this project has not yet been published, we do not provide pre-trained models at this time. Additionally, to protect the core innovations of this project from being replicated, some critical parts of the code have been removed. The complete code will be released once the paper is accepted. Thank you for your understanding and support!
