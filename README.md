@@ -43,7 +43,7 @@ Similarly, for testing the trained model, make sure to adjust any parameters in 
 ```bash
 python test.py
 ```
-
+Additionally, you can find the pretrained model via this google dirve link: https://drive.google.com/file/d/1uVJB3lL0UtqlgsQ3PgWnvKvlde6R-F_P/view?usp=sharing
 ## Configuration
 
 The `CFG` class within both `train.py` and `test.py` contains various hyperparameters that you can modify to suit your needs. Make sure to review and adjust these parameters before executing the scripts.
